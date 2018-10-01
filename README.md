@@ -156,5 +156,4 @@ python manage.py runserver
 check [http://localhost:8000](http://localhost:8000 "chatbot url")
 
 
-[한글 설명](https://goo.gl/4s4cy2 "Blog")
-
+[DEMO](https://chatbot.rocketpunch.kr "demo url")
